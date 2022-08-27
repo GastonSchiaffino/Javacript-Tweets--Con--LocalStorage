@@ -1,6 +1,6 @@
 # Javacript-Tweets--Con--LocalStorage
 Proyecto para probar implementando localstorage usando tweet. 
 
-### :globe-with-meridians: Deploy 
+### :globe_with_meridians: Deploy 
 
 ### :tv: Home Screen
